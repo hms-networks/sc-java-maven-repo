@@ -3,7 +3,7 @@
   <groupId>com.hms_networks.americas.sc</groupId>
   <artifactId>extensions</artifactId>
   <versioning>
-    <release>1.13.3</release>
+    <release>1.13.4-pre1</release>
     <versions>
       <version>1.0.0</version>
       <version>1.1.0</version>
@@ -59,7 +59,8 @@
       <version>1.13.0</version>
       <version>1.13.2</version>
       <version>1.13.3</version>
+      <version>1.13.4-pre1</version>
     </versions>
-    <lastUpdated>20221216222756</lastUpdated>
+    <lastUpdated>20230130143113</lastUpdated>
   </versioning>
 </metadata>
