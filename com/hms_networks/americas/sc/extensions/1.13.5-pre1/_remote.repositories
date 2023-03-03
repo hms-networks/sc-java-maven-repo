@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 03 15:54:23 UTC 2023
+extensions-1.13.5-pre1-javadoc.jar>=
+extensions-1.13.5-pre1-sources.jar>=
+extensions-1.13.5-pre1.pom>=
+extensions-1.13.5-pre1.jar>=
