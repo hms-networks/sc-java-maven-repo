@@ -3,10 +3,11 @@
   <groupId>com.hms_networks.americas.sc</groupId>
   <artifactId>flexy-canary-connector</artifactId>
   <versioning>
-    <release>1.0.0-pre1</release>
+    <release>1.0.0-pre2</release>
     <versions>
       <version>1.0.0-pre1</version>
+      <version>1.0.0-pre2</version>
     </versions>
-    <lastUpdated>20230920145040</lastUpdated>
+    <lastUpdated>20230920152214</lastUpdated>
   </versioning>
 </metadata>
