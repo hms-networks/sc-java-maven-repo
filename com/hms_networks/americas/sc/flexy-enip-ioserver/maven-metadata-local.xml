@@ -3,7 +3,7 @@
   <groupId>com.hms_networks.americas.sc</groupId>
   <artifactId>flexy-enip-ioserver</artifactId>
   <versioning>
-    <release>1.2.3-pre1</release>
+    <release>1.2.3-pre2</release>
     <versions>
       <version>1.0.0-pre1</version>
       <version>1.0.0</version>
@@ -14,7 +14,8 @@
       <version>1.2.1</version>
       <version>1.2.2</version>
       <version>1.2.3-pre1</version>
+      <version>1.2.3-pre2</version>
     </versions>
-    <lastUpdated>20230921165032</lastUpdated>
+    <lastUpdated>20230926142235</lastUpdated>
   </versioning>
 </metadata>
